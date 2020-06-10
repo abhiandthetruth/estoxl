@@ -42,7 +42,6 @@ You have created raw, enriched indices, exported the selected fields into a csv 
 
 # Attachments
 
-![Image](/Microtask-8/image.png)
-![Image](/Microtask-8/kibiter.png)
-![Image](/Microtask-8/csv.png)
-![Image](/Microtask-8/xlsheet.png)
+![Image](/kibiter.png)
+![Image](/csv.png)
+![Image](/xlsheet.png)
