@@ -1,5 +1,5 @@
 # estoxl
-This project aims to provide people a tool to export the data in their elastic search indexes to csv and even to ggogle sheets!. There are two scripts involved. First is the `estocsv.py`, which exports the data based on the specification given in `config.ini` to a csv file. The second is `csvtoxlsheet.py` exports the data generated in the csv to either an xlsx file or a Google sheet directly into your account!. Please read the documentation below thoroughly before using.  
+This project aims to provide people a tool to export the data in their elastic search indexes to csv and even to google sheets!. There are two scripts involved. First is the `estocsv.py`, which exports the data based on the specification given in `config.ini` to a csv file. The second is `csvtoxlsheet.py` exports the data generated in the csv to either an xlsx file or a Google sheet directly into your account!. Please read the documentation below thoroughly before using.  
 
 # Procedure (All the examples provided were used by me) 
 
